@@ -1,0 +1,18 @@
+{
+  "name": "prettyconfig",
+  "version": "1.0.0",
+  "description": "Tired of constantly making my .prettierrc file, no more no less.",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Dion Pettaway"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "7.3.3"
+  }
+}
